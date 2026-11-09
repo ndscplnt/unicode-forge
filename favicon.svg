@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Unicode Forge: mezzatinta 4×4, dal blocco pieno (in basso a sinistra) al punto (in alto a destra) -->
+  <rect width="32" height="32" rx="8" fill="#e8b04a"/>
+  <g fill="#1a1306">
+    <rect x="5.2" y="5.2" width="3.6" height="3.6" rx="0.4"/><rect x="11.6" y="5.6" width="2.8" height="2.8" rx="1.4"/><rect x="18" y="6" width="2" height="2" rx="1"/><rect x="24.4" y="6.4" width="1.2" height="1.2" rx="0.6"/>
+    <rect x="4.8" y="10.8" width="4.4" height="4.4" rx="0.4"/><rect x="11.2" y="11.2" width="3.6" height="3.6" rx="0.4"/><rect x="17.6" y="11.6" width="2.8" height="2.8" rx="1.4"/><rect x="24" y="12" width="2" height="2" rx="1"/>
+    <rect x="4.4" y="16.4" width="5.2" height="5.2" rx="0.4"/><rect x="10.8" y="16.8" width="4.4" height="4.4" rx="0.4"/><rect x="17.2" y="17.2" width="3.6" height="3.6" rx="0.4"/><rect x="23.6" y="17.6" width="2.8" height="2.8" rx="1.4"/>
+    <rect x="4" y="22" width="6" height="6" rx="0.4"/><rect x="10.4" y="22.4" width="5.2" height="5.2" rx="0.4"/><rect x="16.8" y="22.8" width="4.4" height="4.4" rx="0.4"/><rect x="23.2" y="23.2" width="3.6" height="3.6" rx="0.4"/>
+  </g>
+</svg>
